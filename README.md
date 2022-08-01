@@ -15,6 +15,7 @@ Digamos que você está criando o sistema para registrar a chegada de hóspedes 
 Nesse exercício vamos fazer uma "análise simples" de atingimento de Meta.
 
 Temos uma lista com os vendedores e os valores de vendas e queremos identificar (printar) quais os vendedores que bateram a meta e qual foi o valor que eles venderam.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3. Comparação com Ano Anterior
 Digamos que você está analisando as vendas de produtos de um ecommerce e quer identificar quais produtos tiveram no ano de 2020 mais vendas do que no ano de 2019, para reportar isso para a diretoria.
